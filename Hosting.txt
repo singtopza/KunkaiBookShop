@@ -1,0 +1,39 @@
+ข้อมูลการใช้งานโฮสติ้ง
+
+Username: usr6242590
+Password: 9QUAN6z-!K
+
+หน้าเว็บแสดงผล
+มีโดเมนแล้ว	http://www.624259027.lnw.mn/ [1]
+
+ข้อมูล FTP
+Host	edu3.pathosting.com   หรือ   ftp.624259027.lnw.mn [1] 
+Username	usr6242590
+Password	9QUAN6z-!K
+Port	21
+
+Control Panel (DirectAdmin) (เข้าทางใดก็ได้)
+(พอร์ท 2222)	ผ่านไอพี	http://edu3.pathosting.com:2222/
+
+	ผ่านโดเมนเนม	http://www.624259027.lnw.mn:2222/ [1]
+
+FAQ: ทำไมเข้า DirectAdmin แล้วขึ้นหน้าเตือนเรื่องความปลอดภัย?
+[1] เฉพาะกรณีที่มีโดเมน และตั้ง Name Servers มาที่โฮสติ้งแล้ว
+
+Name Servers
+NS1:	edu3.pathosting.com
+NS2:	edu4.pathosting.com
+Host IP:	61.19.246.116
+
+หน้าเว็บเมล
+ผ่านไอพี	http://61.19.246.116/roundcube/
+
+ผ่านโดเมนเนม	http://www.624259027.lnw.mn/roundcube/ [1]
+
+รายละเอียดโฮสติ้ง
+เริ่มใช้งาน	7 ส.ค. 2563
+หมดอายุ	7 ก.พ. 2564
+แพ็คเกจ	Education
+พื้นที่ใช้	200 MB
+แบนด์วิดท์[3]	4 GB/เดือน
+Inode [4]	20,000
